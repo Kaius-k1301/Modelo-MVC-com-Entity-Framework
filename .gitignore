@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# User-specific and temporary files
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core generated files
+appsettings.Local.json
+
+# Arquivos antigos fora do projeto referenciado pela solução
+/Controllers/
+/Views/
